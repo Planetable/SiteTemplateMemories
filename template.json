@@ -1,14 +1,14 @@
 {
-  "name": "Sepia",
-  "description": "A sepia template designed for microblogging",
+  "name": "Memories",
+  "description": "For photos, notes, and memories. Serif font, gray background, and a clean layout.",
   "author": "Planetable Team",
   "authorWebsite": "https://planetable.xyz",
-  "version": "0.2.0",
-  "idealItemsPerPage": 20,
+  "version": "0.0.1",
+  "idealItemsPerPage": 2,
   "generateIndexPagination": true,
   "generateTagPages": true,
   "generateArchive": true,
-  "buildNumber": 82,
+  "buildNumber": 83,
   "settings": {
     "highlightColor": {
       "name": "Highlight Color",
@@ -43,20 +43,20 @@
     "backgroundColor": {
       "name": "Background Color",
       "type": "string",
-      "defaultValue": "#F4F1EC",
-      "description": "Background color, default value: #F4F1EC (yellowish white)"
+      "defaultValue": "#D5D5D5",
+      "description": "Background color, default value: #D5D5D5 (light gray)"
     },
     "foregroundColor": {
       "name": "Foreground Color",
       "type": "string",
-      "defaultValue": "#000000",
-      "description": "Foreground color, default value: #000000 (black)"
+      "defaultValue": "#111122",
+      "description": "Foreground color, default value: #111122 (black)"
     },
     "foregroundSecondaryColor": {
       "name": "Foreground Secondary Color",
       "type": "string",
-      "defaultValue": "#999999",
-      "description": "Foreground secondary color, default value: #999999 (gray)"
+      "defaultValue": "#9999aa",
+      "description": "Foreground secondary color, default value: #9999aa (gray)"
     },
     "borderColor": {
       "name": "Border Color",
