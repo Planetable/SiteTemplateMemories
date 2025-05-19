@@ -365,7 +365,7 @@ const decorateItem = (item) => {
         heroImg.setAttribute("src", heroImageFilename);
       }
       if (pageType == "blog") {
-        heroImg.setAttribute("style", "max-width: 100%; height: auto; max-height: initial; aspect-ratio: initial; object-fit: cover;");
+        heroImg.setAttribute("style", "max-width: calc(100% - 21px); height: auto; max-height: initial; aspect-ratio: initial; object-fit: cover;");
       }
       heroImg.style.cursor = "pointer";
       heroImg.onclick = () => showModal(heroImg.src);
