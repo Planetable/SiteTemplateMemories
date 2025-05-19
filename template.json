@@ -13,8 +13,8 @@
     "highlightColor": {
       "name": "Highlight Color",
       "type": "string",
-      "defaultValue": "#FF4500",
-      "description": "Highlight color, default value: #FF4500 (orangered)"
+      "defaultValue": "#005392",
+      "description": "Highlight color, default value: #005392 (ocean blue)"
     },
     "linkColor": {
       "name": "Link Color",

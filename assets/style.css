@@ -5,7 +5,7 @@
 
   --background-color: #F4F1EC;
   --foreground-color: #000000;
-  --highlight-color: orangered;
+  --highlight-color: #005392;
   --nav-color: #333;
   --nav-active-color: #FCFCFA;
   --link-color: #778087;
@@ -27,8 +27,8 @@
     0 3px 5px rgba(0, 0, 0, 0.02),
     0 5px 8px rgba(0, 0, 0, 0.02);
   --box-margin: 10px;
-  --icon-hover-filter: invert(51%) sepia(0%) saturate(0%) hue-rotate(23deg) brightness(90%) contrast(90%);
-  --icon-secondary-filter: invert(97%) sepia(0%) saturate(0%) hue-rotate(129deg) brightness(86%) contrast(88%);
+  --icon-hover-filter: invert(13.0%) sepia(98.0%) saturate(3987.0%) hue-rotate(194.0deg) brightness(89.0%) contrast(101.0%);
+  --icon-secondary-filter: invert(61.0%) sepia(12.0%) saturate(303.0%) hue-rotate(202.0deg) brightness(99.0%) contrast(87.0%);
 }
 
 body {
